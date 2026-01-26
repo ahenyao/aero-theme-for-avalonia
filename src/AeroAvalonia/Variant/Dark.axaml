@@ -166,9 +166,13 @@
 	<Color x:Key="AeroTextBoxDisabledBorderBrushColor">#FF565656</Color>
 
 
+	<Color x:Key="AeroTextBoxSelectionBrushColor">#FF55AAFF</Color>
+
+	<Color x:Key="AeroTextBoxSelectionForegroundBrushColor">#FF000000</Color>
+
+
 	<Color x:Key="AeroTextBoxErrorBorderBrushColor0">#FF510000</Color>
 	<Color x:Key="AeroTextBoxErrorBorderBrushColor1">#FF800000</Color>
-
 
 
 

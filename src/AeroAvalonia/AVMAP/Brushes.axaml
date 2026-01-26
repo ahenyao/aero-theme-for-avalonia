@@ -185,6 +185,9 @@
 
 	<SolidColorBrush x:Key="AeroTextBoxDisabledBackground" Color="{DynamicResource AeroTextBoxDisabledBackgroundColor}" />
 	<SolidColorBrush x:Key="AeroTextBoxDisabledBorderBrush" Color="{DynamicResource AeroTextBoxDisabledBorderBrushColor}" />
+
+	<SolidColorBrush x:Key="AeroTextBoxSelectionBrush" Color="{DynamicResource AeroTextBoxSelectionBrushColor}" />
+	<SolidColorBrush x:Key="AeroTextBoxSelectionForegroundBrush" Color="{DynamicResource AeroTextBoxSelectionForegroundBrushColor}" />
 	
 	<LinearGradientBrush x:Key="AeroTextBoxErrorBorderBrush" StartPoint="0%,0%" EndPoint="0%,100%">
 		<GradientStop Offset="0" Color="{DynamicResource AeroTextBoxErrorBorderBrushColor0}" />

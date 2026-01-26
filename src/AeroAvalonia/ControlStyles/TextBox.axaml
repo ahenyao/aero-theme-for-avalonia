@@ -104,8 +104,8 @@
         <Setter Property="CaretBrush" Value="{DynamicResource AeroForeground}" />
         <Setter Property="Padding" Value="3"/>
         <Setter Property="FontSize" Value="{DynamicResource AeroFontSizeNormal}"/>
-        <Setter Property="SelectionBrush" Value="{DynamicResource HighlightBrush}"/>
-        <Setter Property="SelectionForegroundBrush" Value="{DynamicResource HighlightForegroundBrush}"/>
+        <Setter Property="SelectionBrush" Value="{DynamicResource AeroTextBoxSelectionBrush}"/>
+        <Setter Property="SelectionForegroundBrush" Value="{DynamicResource AeroTextBoxSelectionForegroundBrush}"/>
         <Setter Property="CornerRadius" Value="{DynamicResource AeroControlCornerRadius}" />
         <!--
         <Setter Property="MinHeight" Value="{DynamicResource TextControlThemeMinHeight}" />
