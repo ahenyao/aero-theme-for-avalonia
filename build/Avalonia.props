@@ -1,6 +1,6 @@
 <Project>
 	<PropertyGroup>
-		<AvaloniaVer>11.0.10</AvaloniaVer>
+		<AvaloniaVer>12.1.0</AvaloniaVer>
 	</PropertyGroup>
   <ItemGroup>
 		<PackageReference Include="Avalonia" Version="$(AvaloniaVer)" />

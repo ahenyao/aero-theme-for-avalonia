@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 	<Import Project="../../build/dotnet-version.props" />
 	<PropertyGroup>
-		<TargetFrameworks>$(ExtraTargetFrameworks)netstandard2.0</TargetFrameworks>
+		<TargetFrameworks>$(ExtraTargetFrameworks)net10.0</TargetFrameworks>
 		<LangVersion>9.0</LangVersion>
 		<!--
 		<Nullable>Enable</Nullable>
